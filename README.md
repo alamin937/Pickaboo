@@ -4,8 +4,6 @@
   1. test case Id 2. module 3.freatures 4.test case 5.steps 6.test data 7.expected result 8.actual result 9.status 10. screen shot
 * Test Case Report
 * Bug Report
-* Mind Map
-* Test Metrics
 
 <!DOCTYPE html>
 <html>
